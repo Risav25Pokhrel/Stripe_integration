@@ -1,8 +1,5 @@
 # stripe_integration
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 add "https://pub.dev/packages/flutter_stripe" to your project(flutter pub add flutter_stripe)
 
@@ -47,3 +44,8 @@ setup for android:
     same for values-night
 
 docs at https://pub.dev/packages/flutter_stripe
+![IMG_20230413_215112](https://github.com/Risav25Pokhrel/Stripe_integration/assets/103576193/405f3007-b317-4524-aaae-103f4122d595)
+
+
+![IMG_20230413_215123](https://github.com/Risav25Pokhrel/Stripe_integration/assets/103576193/7cd41fd6-c4e2-4f5a-bd0d-7dc049e18c42)
+
